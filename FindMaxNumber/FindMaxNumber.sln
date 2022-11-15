@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxNumber", "FindMaxNumber.csproj", "{14F2A6FF-F514-415D-ACC3-F3090BDB7563}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxNumberTest", "..\FindMaxNumberTest\FindMaxNumberTest.csproj", "{2E9EE1CE-1FFD-428E-819F-F7EB1EBEAB92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{14F2A6FF-F514-415D-ACC3-F3090BDB7563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14F2A6FF-F514-415D-ACC3-F3090BDB7563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14F2A6FF-F514-415D-ACC3-F3090BDB7563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9EE1CE-1FFD-428E-819F-F7EB1EBEAB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9EE1CE-1FFD-428E-819F-F7EB1EBEAB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9EE1CE-1FFD-428E-819F-F7EB1EBEAB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9EE1CE-1FFD-428E-819F-F7EB1EBEAB92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
